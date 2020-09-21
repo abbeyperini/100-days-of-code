@@ -16,3 +16,7 @@
 
 **Link(s) to work** https://github.com/abbeyperini/Ravelry
 
+### Day 3: September 21, Monday
+
+**Today's Progress**: Read about CORS, followed the MDN page on installing Express and its equivalent of "Hello, World!." Going to need to keep reading about Fetch API and using Express to get anything working, so nothing to push today.
+
