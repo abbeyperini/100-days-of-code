@@ -20,3 +20,10 @@
 
 **Today's Progress**: Read about CORS, followed the MDN page on installing Express and its equivalent of "Hello, World!." Going to need to keep reading about Fetch API and using Express to get anything working, so nothing to push today.
 
+### Day 4: September 22, Tuesday
+
+**Today's Progress**: Got a JSON back from Ravelry using a Python script. I don't think it'll be useful for the final product - setting up a way to get the data from Python to Javascript looks like a project in and of itself. I'll probably go back to trying to figure out Fetch and OAuth2, but at least now I can see what kind of JSON I get from Ravelry, and think about how I'll use it.
+
+**Link(s) to work** https://github.com/abbeyperini/Ravelry
+
+
