@@ -26,4 +26,10 @@
 
 **Link(s) to work** https://github.com/abbeyperini/Ravelry
 
+### Day 5: September 23, Wednesday
+
+**Today's Progress**: Fixed 3/4 accessibility issues I had on my list to fix with my website.
+
+**Link(s) to work** https://abbeyperini.github.io/
+
 
