@@ -36,4 +36,10 @@
 
 **Today's Progress**: Worked on an optional challenge assignment updating a website from '99 to be responsive. Used CSS Grid, which I hadn't done too much with, to make the main section of the page with multiple navs and asides.
 
-**Links(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day4/old_wall_570
+**Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day4/old_wall_570
+
+### Day 7: September 25, Friday
+
+**Today's Progress**: Algorithm practice!
+
+**Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day5/python%20problems
