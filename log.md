@@ -43,3 +43,9 @@
 **Today's Progress**: Algorithm practice!
 
 **Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day5/python%20problems
+
+### Day 8: September 26, Saturday
+
+**Today's Progress**: Styling added to the assignment updating a website from '99.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day4/old_wall_570
