@@ -49,3 +49,9 @@
 **Today's Progress**: Styling added to the assignment updating a website from '99.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day4/old_wall_570
+
+### Day 9: September 27, Sunday
+
+**Today's Progress**: Breaking it to make it responsive. Ended up changing the grid layout at a break point of 400px. Managed to get everything within its grid square. Don't know if I'll be able to keep the old background images on the mobile design.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day4/old_wall_570
