@@ -70,6 +70,6 @@
 
 ### Day 12: September 30, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Added JS to my photo galleries on my personal website and embedded Medium with a widget.
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/abbeyperini/abbeyperini.github.io
