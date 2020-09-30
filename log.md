@@ -55,3 +55,21 @@
 **Today's Progress**: Breaking it to make it responsive. Ended up changing the grid layout at a break point of 400px. Managed to get everything within its grid square. Don't know if I'll be able to keep the old background images on the mobile design.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/tree/master/Day4/old_wall_570
+
+### Day 10: September 28, Monday
+
+**Today's Progress**: Got the Old Wall Site responsive and added a new image for the desktop background.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS (screenshots at bottom of README)
+
+### Day 11: September 29, Tuesday
+
+**Today's Progress**: Put together a basic HTML/CSS framework for a side project study timer app.
+
+**Link(s) to work** 
+
+### Day 12: September 30, Wednesday
+
+**Today's Progress**:
+
+**Link(s) to work**
