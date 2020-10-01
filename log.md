@@ -73,3 +73,9 @@
 **Today's Progress**: Added JS to my photo galleries on my personal website and embedded Medium with a widget.
 
 **Link(s) to work** https://github.com/abbeyperini/abbeyperini.github.io
+
+### Day 13: October 1, Thursday
+
+**Today's Progress**: Needed to do research for a presentation, so here's one of today's activities - dispalying stocks from a JSON
+
+**Link(s) to work** 
