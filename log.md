@@ -78,4 +78,4 @@
 
 **Today's Progress**: Needed to do research for a presentation, so here's one of today's activities - dispalying stocks from a JSON
 
-**Link(s) to work** 
+**Link(s) to work** https://github.com/abbeyperini/100-days-of-code/tree/master/Coding/STONKS
