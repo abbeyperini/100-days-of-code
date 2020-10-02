@@ -79,3 +79,9 @@
 **Today's Progress**: Needed to do research for a presentation, so here's one of today's activities - displaying stocks from a JSON
 
 **Link(s) to work** https://github.com/abbeyperini/100-days-of-code/tree/master/Coding/STONKS
+
+### Day 14: October 2, Thursday
+
+**Today's Progress**: Updated my personal website galleries to a slideshow rather than a click through gallery with no indication you had to click. Refactored an assignment from earlier in the week. Created a validated registration page.
+
+**Link(s) to work** abbeyperini.github.io, https://github.com/abbeyperini/DC_JS/blob/master/Week4/Day3/app.js, 

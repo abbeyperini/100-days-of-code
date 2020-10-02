@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: #2B2D42;
+    color: #EDF2F4;
+    text-align: center;
+}
+
+input:not(:placeholder-shown):invalid {
+    background-color: salmon;
+}
+form:invalid button {
+    background-color: salmon;
+    pointer-events: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    width: 10%;
+    margin: 10px;
+}
+
+h1 {
+    padding: 20px;
+}
