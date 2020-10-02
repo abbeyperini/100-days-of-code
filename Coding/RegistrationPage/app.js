@@ -1,5 +1,3 @@
-// Password must be at least 4 characters, no more than 8 characters, and must include at least one upper case letter, one lower case letter, and one numeric digit.
-
 var firstName = document.getElementById('firstName');
 var lastName = document.getElementById('lastName');
 var email = document.getElementById('email');
