@@ -91,3 +91,9 @@
 **Today's Progress**: Went back to an assignment from Thursday - I had gotten the optional hard mode mostly implemented when I thought it would be less time consuming in the long run if I started on the harder mode. I ended up quitting the harder mode in frustration when I ran out of time to work on it. Went back to it today, after getting a helpful function from someone else's question to the teacher. Got everything working with a few extras (without showing duplicates or nulls from the source files and fixed some 404s in one of the source files). Just need to add styling!
 
 **Link(s) to work** https://github.com/abbeyperini/DC_JS/tree/master/Week4/Day4
+
+### Day 16: October 4, Sunday
+
+**Today's Progress**: Styled the assignment I was working on yesterday
+
+**Link(s) to work** https://github.com/abbeyperini/DC_JS/tree/master/Week4/Day4
