@@ -97,3 +97,9 @@
 **Today's Progress**: Styled the assignment I was working on yesterday
 
 **Link(s) to work** https://github.com/abbeyperini/DC_JS/tree/master/Week4/Day4
+
+### Day 17: October 6, Tuesday
+
+**Today's Progress**: Refactored an assignment app so that each function had one purpose. Added a search feature, so you can look at movies that don't involve Batman (but why would you?).
+
+**Link(s) to work** https://github.com/abbeyperini/DC_JS/tree/master/Week5/Day1
