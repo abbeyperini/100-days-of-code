@@ -103,3 +103,7 @@
 **Today's Progress**: Refactored an assignment app so that each function had one purpose. Added a search feature, so you can look at movies that don't involve Batman (but why would you?).
 
 **Link(s) to work** https://github.com/abbeyperini/DC_JS/tree/master/Week5/Day1
+
+### Day 18: October 7, Wednesday
+
+**Today's Progress**: Used Postman to get a better idea of which requests/authentication we'll need to use for the Ravelry API project.
