@@ -107,3 +107,9 @@
 ### Day 18: October 7, Wednesday
 
 **Today's Progress**: Used Postman to get a better idea of which requests/authentication we'll need to use for the Ravelry API project.
+
+### Day 19: October 8, Thursday
+
+**Today's Progress**: Created some basic CSS templates to use for future assigments and reformatted an old readme.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/blob/master/README.md
