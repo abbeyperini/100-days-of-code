@@ -110,6 +110,6 @@
 
 ### Day 19: October 8, Thursday
 
-**Today's Progress**: Created some basic CSS templates to use for future assigments and reformatted an old readme.
+**Today's Progress**: Created some basic CSS templates to use for future assignments and reformatted an old readme.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/blob/master/README.md
