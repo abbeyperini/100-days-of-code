@@ -113,3 +113,7 @@
 **Today's Progress**: Created some basic CSS templates to use for future assignments and reformatted an old readme.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_HTML_CSS/blob/master/README.md
+
+### Day 20: October 10, Saturday
+
+**Today's Progress**: Front end design for an upcoming project, and research on using SVGs in CSS/HTML.
