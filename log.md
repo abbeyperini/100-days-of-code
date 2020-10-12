@@ -117,3 +117,7 @@
 ### Day 20: October 10, Saturday
 
 **Today's Progress**: Front end design for an upcoming project, and research on using SVGs in CSS/HTML.
+
+### Day 21: October 12, Monday
+
+**Today's Progress**: Tried a few ways to make a fancy css dropdown menu on my personal site able to be navigated by keyboard. Didn't get it to work. It's looking like I might have to rebuild it to make it accessible.
