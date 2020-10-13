@@ -121,3 +121,7 @@
 ### Day 21: October 12, Monday
 
 **Today's Progress**: Tried a few ways to make a fancy css dropdown menu on my personal site able to be navigated by keyboard. Didn't get it to work. It's looking like I might have to rebuild it to make it accessible.
+
+### Day 22: October 13, Tuesday
+
+**Today's Progress**: Researched what is and isn't feasible for one of our "stretch goals" for a current project.
