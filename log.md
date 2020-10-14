@@ -125,3 +125,9 @@
 ### Day 22: October 13, Tuesday
 
 **Today's Progress**: Researched what is and isn't feasible for one of our "stretch goals" for a current project.
+
+### Day 23: October 14, Wednesday
+
+**Today's Progress**: Rebuilt my site dropdown menu so that it can be navigated by keyboard.
+
+**Link(s) to work** https://abbeyperini.github.io/
