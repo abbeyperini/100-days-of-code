@@ -128,6 +128,6 @@
 
 ### Day 23: October 14, Wednesday
 
-**Today's Progress**: Rebuilt my site dropdown menu so that it can be navigated by keyboard.
+**Today's Progress**: Rebuilt my site dropdown menu so that it can be navigated by keyboard. Need to get the polyfill for IE working.
 
 **Link(s) to work** https://abbeyperini.github.io/
