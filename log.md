@@ -131,3 +131,9 @@
 **Today's Progress**: Rebuilt my site dropdown menu so that it can be navigated by keyboard. Need to get the polyfill for IE working.
 
 **Link(s) to work** https://abbeyperini.github.io/
+
+### Day 24: October 15, Thursday
+
+**Today's Progress**: Pushed a few site changes - including a link to my first app/group project!
+
+**Links(s) to work** https://abbeyperini.github.io/
