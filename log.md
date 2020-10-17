@@ -137,3 +137,7 @@
 **Today's Progress**: Pushed a few site changes - including a link to my first app/group project!
 
 **Links(s) to work** https://abbeyperini.github.io/
+
+### Day 25: October 17, Saturday
+
+**Today's Progress**: Started my portfolio!
