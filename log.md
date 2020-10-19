@@ -141,3 +141,9 @@
 ### Day 25: October 17, Saturday
 
 **Today's Progress**: Started my portfolio!
+
+### Day 26: October 19, Monday
+
+**Today's Progress**: Completed the optional hard mode for an assignment - using fetch to delete from an API I build using Node and Express.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_Back_End/tree/master/Week1/Day1
