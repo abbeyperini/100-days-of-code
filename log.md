@@ -144,6 +144,12 @@
 
 ### Day 26: October 19, Monday
 
-**Today's Progress**: Completed the optional hard mode for an assignment - using fetch to delete from an API I build using Node and Express.
+**Today's Progress**: Completed the optional hard mode for an assignment - using fetch to delete from an API I built using Node and Express.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_Back_End/tree/master/Week1/Day1
+
+### Day 27: October 20, Tuesday
+
+**Today's Progress**: Completed all the optional hard modes for an assignment - using Mustache server side pages in a server I built using Node and Express.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_Back_End/tree/master/Week7/Day2
