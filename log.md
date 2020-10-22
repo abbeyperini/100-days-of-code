@@ -153,3 +153,9 @@
 **Today's Progress**: Completed all the optional hard modes for an assignment - using Mustache server side pages in a server I built using Node and Express.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_Back_End/tree/master/Week7/Day2
+
+### Day 28: October 22, Thursday
+
+**Today's Progress**: Our teacher encouraged us to apply daily assignments to a hobby project, so I built enough of an app for a hobby project idea to add the ability to allow user to register, login, signout, and only see their information after they login successfully.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_Back_End/tree/master/Week7/petPlanner
