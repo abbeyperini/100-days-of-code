@@ -159,3 +159,7 @@
 **Today's Progress**: Our teacher encouraged us to apply daily assignments to a hobby project, so I built enough of an app for a hobby project idea to add the ability to allow user to register, login, signout, and only see their information after they login successfully.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_Back_End/tree/master/Week7/petPlanner
+
+### Day 29: October 23, Thursday
+
+**Today's Progress**: Found a portfolio template that better suited my needs. Only a little formatting and content missing, so I should be able to push it soon.
