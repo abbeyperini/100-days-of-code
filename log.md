@@ -160,6 +160,10 @@
 
 **Link(s) to work** https://github.com/abbeyperini/DC_Back_End/tree/master/Week7/petPlanner
 
-### Day 29: October 23, Thursday
+### Day 29: October 23, Friday
 
 **Today's Progress**: Found a portfolio template that better suited my needs. Only a little formatting and content missing, so I should be able to push it soon.
+
+### Day 30: October 24, Saturday
+
+**Today's Progress**: Following an Udemy course, set up my first PostgreSQL database, learned some basic commands, and then used pg-promise to connect to the database in a Node server and console log the database object.
