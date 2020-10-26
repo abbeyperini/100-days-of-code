@@ -174,6 +174,6 @@
 
 ### Day 32: October 25, Monday
 
-**Today's Progress**: Completed 1/3 optional hardmode parts of the assignment essentially switching my node express app from an array to a PostgreSQL database.
+**Today's Progress**: Completed 1/3 optional hardmode parts of the assignment essentially switching my node express app from an array to a PostgreSQL database. Got really close to completing the other two.
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
