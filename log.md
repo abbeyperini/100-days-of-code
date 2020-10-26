@@ -171,3 +171,9 @@
 ### Day 31: October 25, Sunday
 
 **Today's Progress**: Following an Udemy course, went through CRUD operations using pg-promise connecting to a PostgreSQL database.
+
+### Day 32: October 25, Monday
+
+**Today's Progress**: Completed 1/3 optional hardmode parts of the assignment essentially switching my node express app from an array to a PostgreSQL database.
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
