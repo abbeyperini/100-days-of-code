@@ -177,3 +177,9 @@
 **Today's Progress**: Completed 1/3 optional hardmode parts of the assignment essentially switching my node express app from an array to a PostgreSQL database. Got really close to completing the other two.
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 33: October 26, Tuesday
+
+**Today's Progress**: Completed the other two optional hardmode parts from yesterday - updating table entries and switching the login/registration to the database. 
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
