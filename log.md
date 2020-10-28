@@ -172,14 +172,20 @@
 
 **Today's Progress**: Following an Udemy course, went through CRUD operations using pg-promise connecting to a PostgreSQL database.
 
-### Day 32: October 25, Monday
+### Day 32: October 26, Monday
 
 **Today's Progress**: Completed 1/3 optional hardmode parts of the assignment essentially switching my node express app from an array to a PostgreSQL database. Got really close to completing the other two.
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
 
-### Day 33: October 26, Tuesday
+### Day 33: October 27, Tuesday
 
 **Today's Progress**: Completed the other two optional hardmode parts from yesterday - updating table entries and switching the login/registration to the database. 
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 34: October 28, Wednesday
+
+**Today's Progress**: Completed all the optional hardmode parts of today's assignment - essentially rewriting everything I'd done in pg-promise the last two days, but now it's in Sequelize.
+
+**Links(s) to work** https://github.com/abbeyperini/PetPlanner
