@@ -189,3 +189,9 @@
 **Today's Progress**: Completed all the optional hardmode parts of today's assignment - essentially rewriting everything I'd done in pg-promise the last two days, but now it's in Sequelize.
 
 **Links(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 35: October 29, Thursday
+
+**Today's Progress**: Still working on improving/fixing Knitworthy! Some styling and a randomize button for the facts.
+
+**Link(s) to work** https://github.com/abbeyperini/Knitworthy
