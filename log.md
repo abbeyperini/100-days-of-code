@@ -195,3 +195,11 @@
 **Today's Progress**: Still working on improving/fixing Knitworthy! Some styling and a randomize button for the facts.
 
 **Link(s) to work** https://github.com/abbeyperini/Knitworthy
+
+### Day 36: October 30, Friday
+
+**Today's Progress**: Researched design standards and common responsive layouts.
+
+### Day 37: November 1, Sunday
+
+**Today's Progress**: Designed a logo and got some basic styling together for an upcoming project.
