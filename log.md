@@ -211,3 +211,7 @@
 ### Day 39: November 3, Tuesday
 
 **Today's Progress**: Did research on input validation for a current project.
+
+### Day 40: November 4, Wednesday
+
+**Today's Progress**: Read the first few chapters of Cracking the Coding Interview.
