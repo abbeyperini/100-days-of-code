@@ -203,3 +203,11 @@
 ### Day 37: November 1, Sunday
 
 **Today's Progress**: Designed a logo and got some basic styling together for an upcoming project.
+
+### Day 38: November 2, Monday
+
+**Today's Progress**: Researched user uploaded images for a current project.
+
+### Day 39: November 3, Tuesday
+
+**Today's Progress**: Did research on input validation for a current project.
