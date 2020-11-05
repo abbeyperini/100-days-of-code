@@ -215,3 +215,7 @@
 ### Day 40: November 4, Wednesday
 
 **Today's Progress**: Read the first few chapters of Cracking the Coding Interview.
+
+### Day 41: November 5, Thursday
+
+**Today's Progress**: Worked on some styling and sourcing skills icons for my portfolio.
