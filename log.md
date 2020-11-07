@@ -219,3 +219,9 @@
 ### Day 41: November 5, Thursday
 
 **Today's Progress**: Worked on some styling and sourcing skills icons for my portfolio.
+
+### Day 42: November 7, Saturday
+
+**Today's Progress**: Followed the first 7 videos in a Youtube React course - created my first React app, components, and played with the scope of the keyword this.
+
+**Link(s) to work** https://www.youtube.com/playlist?list=PLDMXqpbtInQiMheYtqZBO5PsZy5ZQ4IoS
