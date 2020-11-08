@@ -225,3 +225,9 @@
 **Today's Progress**: Followed the first 7 videos in a Youtube React course - created my first React app, components, and played with the scope of the keyword this.
 
 **Link(s) to work** https://www.youtube.com/playlist?list=PLDMXqpbtInQiMheYtqZBO5PsZy5ZQ4IoS
+
+### Day 43: November 8, Sunday
+
+**Today's Progress**: Followed the next 7 videos in the Youtube React course - created a counter, learned about state, lifecycle events, React Developer Tools, fetching data from a JSON API, and using components to display fetched data (passing data from parent to child).
+
+**Link(s) to work** https://www.youtube.com/playlist?list=PLDMXqpbtInQiMheYtqZBO5PsZy5ZQ4IoS
