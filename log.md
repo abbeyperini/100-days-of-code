@@ -231,3 +231,9 @@
 **Today's Progress**: Followed the next 7 videos in the Youtube React course - created a counter, learned about state, lifecycle events, React Developer Tools, fetching data from a JSON API, and using components to display fetched data (passing data from parent to child).
 
 **Link(s) to work** https://www.youtube.com/playlist?list=PLDMXqpbtInQiMheYtqZBO5PsZy5ZQ4IoS
+
+### Day 44: November 9, Monday
+
+**Today's Progess**: Finished adding skills icons and styling to my portfolio and pushed it!
+
+**Link(s) to work** https://abbeyperini.github.io/portfolio.html
