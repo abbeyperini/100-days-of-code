@@ -237,3 +237,9 @@
 **Today's Progess**: Finished adding skills icons and styling to my portfolio and pushed it!
 
 **Link(s) to work** https://abbeyperini.github.io/portfolio.html
+
+### Day 45: November 10, Tuesday
+
+**Today's Progress**: Followed more videos in the Youtube React course - covered handling inputs, React Router DOM, BaseLayout, NavLink, history and passing parameters
+
+**Link(s) to work** https://www.youtube.com/playlist?list=PLDMXqpbtInQiMheYtqZBO5PsZy5ZQ4IoS
