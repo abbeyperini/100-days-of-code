@@ -243,3 +243,9 @@
 **Today's Progress**: Followed more videos in the Youtube React course - covered handling inputs, React Router DOM, BaseLayout, NavLink, history and passing parameters
 
 **Link(s) to work** https://www.youtube.com/playlist?list=PLDMXqpbtInQiMheYtqZBO5PsZy5ZQ4IoS
+
+### Day 46: November 11, Wednesday
+
+**Today's Progress**: Followed the last of the Youtube React videos and researched and wrote a blog about keeping HTML semantic in Reactjs.
+
+**Link(s) to work** https://abbeyperini.medium.com/accessibility-and-reactjs-817736fd881d
