@@ -249,3 +249,9 @@
 **Today's Progress**: Followed the last of the Youtube React videos and researched and wrote a blog about keeping HTML semantic in Reactjs.
 
 **Link(s) to work** https://abbeyperini.medium.com/accessibility-and-reactjs-817736fd881d
+
+### Day 47: November 12, Thursday
+
+**Today's Progress**: Did some styling for a hobby project including learning how to import svgs as components in React.
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
