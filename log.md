@@ -258,4 +258,4 @@
 
 ### Day 48: November 13, Friday
 
-**Today's Progress**: Tried to tackle a semi-fake login for my hobby React app using useAuth. Will probably put it on the backburner until we learn JSON Web Token in a couple weeks.
+**Today's Progress**: Tried to tackle a semi-fake login for my hobby React app using useAuth. Will probably put it on the back burner until we learn JSON Web Token in a couple weeks.
