@@ -263,3 +263,9 @@
 ### Day 49: November 15, Sunday
 
 **Today's Progress**: Caught up on some React articles and coding newsletters I hadn't gotten a chance to read. Continued working on a styling/naming convention guide for all the languages I'm using regularly.
+
+### Day 50: November 16, Monday
+
+**Today's Progress**: Made some progress on login for my hobby React app.
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
