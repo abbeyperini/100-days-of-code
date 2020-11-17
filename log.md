@@ -269,3 +269,9 @@
 **Today's Progress**: Made some progress on login for my hobby React app.
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 51: November 17, Tuesday
+
+**Today's Progress**: Researched for an upcoming project, algorithm practice.
+
+**Link(s) to work** https://github.com/abbeyperini/DC_React/blob/master/Week11/Day2Algorithms.py
