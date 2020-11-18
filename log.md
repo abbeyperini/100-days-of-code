@@ -275,3 +275,7 @@
 **Today's Progress**: Researched for an upcoming project, algorithm practice.
 
 **Link(s) to work** https://github.com/abbeyperini/DC_React/blob/master/Week11/Day2Algorithms.py
+
+### Day 52: November 18, Wednesday
+
+**Today's Progress**: Succeeded in starting an Ionic React app, but couldn't get the marvinj module installed, imported and working.
