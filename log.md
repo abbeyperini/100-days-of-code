@@ -279,3 +279,9 @@
 ### Day 52: November 18, Wednesday
 
 **Today's Progress**: Succeeded in starting an Ionic React app, but couldn't get the marvinj module installed, imported and working.
+
+### Day 53: November 19, Thursday
+
+**Today's Progress**: Still couldn't get marvinj working, so I pivoted and started a new project idea.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
