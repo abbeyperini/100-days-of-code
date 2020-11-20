@@ -285,3 +285,9 @@
 **Today's Progress**: Still couldn't get marvinj working, so I pivoted and started a new project idea.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 54: November 20, Friday
+
+**Today's Progress**: Started with another attempt at React login/registration. Learned some Redux and started a tutorial.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
