@@ -291,3 +291,9 @@
 **Today's Progress**: Started with another attempt at React login/registration. Learned some Redux and started a tutorial.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 55: November 22, Sunday
+
+**Today's Progress**: Got my front end and back end compiling the React Redux login/registration. Having a connection issue, but that's a debugging problem for tomorrow.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
