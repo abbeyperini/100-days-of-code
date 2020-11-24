@@ -303,3 +303,9 @@
 **Today's Progress**: Got my login/registration working!
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 57: November 24, Tuesday
+
+**Today's Progress**: A few styling fixes for the mobile view of my portfolio
+
+**Link(s) to work** https://abbeyperini.github.io/
