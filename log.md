@@ -309,3 +309,9 @@
 **Today's Progress**: A few styling fixes for the mobile view of my portfolio
 
 **Link(s) to work** https://abbeyperini.github.io/
+
+### Day 58: November 25, Wednesday
+
+**Today's Progress**: A little more progress on login/registration - testing, getting react-router-dom redirects working, etc.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
