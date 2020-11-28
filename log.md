@@ -315,3 +315,7 @@
 **Today's Progress**: A little more progress on login/registration - testing, getting react-router-dom redirects working, etc.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 59: November 28, Thursday
+
+**Today's Progress**: Algorithm practice!
