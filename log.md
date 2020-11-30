@@ -316,6 +316,12 @@
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
 
-### Day 59: November 28, Thursday
+### Day 59: November 28, Saturday
 
 **Today's Progress**: Algorithm practice!
+
+### Day 60: November 29, Monday
+
+**Today's Progress**: Finished a Youtube Redux course and fixed a bug where you couldn't login incorrectly for my React/Redux app.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
