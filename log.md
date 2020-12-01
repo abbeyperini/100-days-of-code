@@ -325,3 +325,9 @@
 **Today's Progress**: Finished a Youtube Redux course and fixed a bug where you couldn't login incorrectly for my React/Redux app.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 61: November 30, Tuesday
+
+**Today's Progress**: Switched to trying to make a redux login/register for my hobby app.
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
