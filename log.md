@@ -320,14 +320,20 @@
 
 **Today's Progress**: Algorithm practice!
 
-### Day 60: November 29, Monday
+### Day 60: November 30, Monday
 
 **Today's Progress**: Finished a Youtube Redux course and fixed a bug where you couldn't login incorrectly for my React/Redux app.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
 
-### Day 61: November 30, Tuesday
+### Day 61: December 1, Tuesday
 
 **Today's Progress**: Switched to trying to make a redux login/register for my hobby app.
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 62: December 2, Wednesday
+
+**Today's Progress**: Spent hours trying to debug a React Router issue where my URL will change but components won't mount.
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
