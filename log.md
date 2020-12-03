@@ -337,3 +337,9 @@
 **Today's Progress**: Spent hours trying to debug a React Router issue where my URL will change but components won't mount.
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 63: December 3, Thursday
+
+**Today's Progress**: Got React Router working and most of my components and CRUD operations refactored to redux thunk.
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
