@@ -343,3 +343,9 @@
 **Today's Progress**: Got React Router working and most of my components and CRUD operations refactored to redux thunk.
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 64: December 4, Friday
+
+**Today's Progress**: Struggled a bit with combiningReducers/states, but got all my CRUD operations for two postgres tables refactored to redux thunk. One more table to go and then I'll be able to make some real progress on this hobby app!
+
+**Link(s) to work** https://github.com/abbeyperini/PetPlanner
