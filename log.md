@@ -349,3 +349,9 @@
 **Today's Progress**: Struggled a bit with combiningReducers/states, but got all my CRUD operations for two postgres tables refactored to redux thunk. One more table to go and then I'll be able to make some real progress on this hobby app!
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
+
+### Day 65: Devember 5, Saturday
+
+**Today's Progress**: Interview assessments and getting react redux login/register set up for my next project.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
