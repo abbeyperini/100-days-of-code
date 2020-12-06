@@ -350,8 +350,14 @@
 
 **Link(s) to work** https://github.com/abbeyperini/PetPlanner
 
-### Day 65: Devember 5, Saturday
+### Day 65: December 5, Saturday
 
 **Today's Progress**: Interview assessments and getting react redux login/register set up for my next project.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 66: December 6, Sunday
+
+**Today's Progress**: For an upcoming project: drew out views and logo ideas, chose a default color palette, made some basic components and views, and chose a library to try and implement for the main calendar features.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
