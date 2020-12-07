@@ -361,3 +361,7 @@
 **Today's Progress**: For an upcoming project: drew out views and logo ideas, chose a default color palette, made some basic components and views, and chose a library to try and implement for the main calendar features.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 67: December 7, Monday
+
+**Today's Progress**: Started logo design for my upcoming project.
