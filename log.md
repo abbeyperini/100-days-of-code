@@ -365,3 +365,9 @@
 ### Day 67: December 7, Monday
 
 **Today's Progress**: Started logo design for my upcoming project.
+
+### Day 68: December 8, Tuesday
+
+**Today's Progress**: Finished logo, refactored login and authentication to use JWT and axios, added a logout, protected routes, and menu toggle based on login, and some really basic CSS 
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
