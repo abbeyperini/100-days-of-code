@@ -371,3 +371,7 @@
 **Today's Progress**: Finished logo, refactored login and authentication to use JWT and axios, added a logout, protected routes, and menu toggle based on login, and some really basic CSS 
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 69: December 10, Thursday
+
+**Today's Progress**: Spent a lot of extra time researching good CSS design practices
