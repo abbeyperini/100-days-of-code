@@ -375,3 +375,9 @@
 ### Day 69: December 10, Thursday
 
 **Today's Progress**: Spent a lot of extra time researching good CSS design practices
+
+### Day 70: December 11, Friday
+
+**Today's Progress**: Learning a lot about Javascript Date objects!
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
