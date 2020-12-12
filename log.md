@@ -381,3 +381,9 @@
 **Today's Progress**: Learning a lot about Javascript Date objects!
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 71: December 12, Saturday
+
+**Today's Progress**: Got a lot done today - highlights were pulling postgreSQL data based on date ranges and moving isAuthenticated to localStorage since React Router resets the Redux state, creating an unreliable nested horror of a field.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
