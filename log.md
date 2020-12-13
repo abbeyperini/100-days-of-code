@@ -387,3 +387,9 @@
 **Today's Progress**: Got a lot done today - highlights were pulling postgreSQL data based on date ranges and moving isAuthenticated to localStorage since React Router resets the Redux state, creating an unreliable nested horror of a field.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 72: December 13, Sunday
+
+**Today's Progress**: Another big day - got the final postgreSQL date range done, added icons to my events (updating all the CRUD operations and postgreSQL table), made a cool radio button dropdown icon selector, formatted existing views to show icons when populated, and ordered all data so it is sent in chronological order.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
