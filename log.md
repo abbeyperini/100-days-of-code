@@ -393,3 +393,15 @@
 **Today's Progress**: Another big day - got the final postgreSQL date range done, added icons to my events (updating all the CRUD operations and postgreSQL table), made a cool radio button dropdown icon selector, formatted existing views to show icons when populated, and ordered all data so it is sent in chronological order.
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 73: December 14, Monday
+
+**Today's Progress**: Got my edit page reliably working, and used nested components to get a cool in page view switch going. Implemented a basic design across all views.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 74: December 15, Tuesday
+
+**Today's Progress**: Made the design responsive/mobile friendly, deployed the app, implemented the login as guest, and fixed redux-persist (installed yesterday) so my client side authentication is finally working reliably. Now for the fun CSS!
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
