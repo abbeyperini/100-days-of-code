@@ -405,3 +405,15 @@
 **Today's Progress**: Made the design responsive/mobile friendly, deployed the app, implemented the login as guest, and fixed redux-persist (installed yesterday) so my client side authentication is finally working reliably. Now for the fun CSS!
 
 **Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 75: December 16, Wednesday
+
+**Today's Progress**: Pushed a new logo, fixed the favicon, populated my app with dummy data, finished the README, and wrote a blog about some cool CSS I designed.
+
+**Link(s) to work** https://github.com/abbeyperini/BujoToGo
+
+### Day 76: December 17, Thursday
+
+**Today's Progress**: Wrote client side login and registration, picked a direction for view design for current project.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
