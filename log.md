@@ -417,3 +417,9 @@
 **Today's Progress**: Wrote client side login and registration, picked a direction for view design for current project.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 77: December 18, Friday
+
+**Today's Progress**: Started implementing design: favicons, logos, colors, etc. Got login and registration pages looking ok and made some fancy buttons.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
