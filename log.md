@@ -423,3 +423,9 @@
 **Today's Progress**: Started implementing design: favicons, logos, colors, etc. Got login and registration pages looking ok and made some fancy buttons.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 78: December 19, Saturday
+
+**Today's Progress**: Got a basic view displaying data so we can get it styled on Monday.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
