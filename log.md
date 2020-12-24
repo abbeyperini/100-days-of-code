@@ -429,3 +429,21 @@
 **Today's Progress**: Got a basic view displaying data so we can get it styled on Monday.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 79: December 21, Monday
+
+**Today's Progress**: Clarified what we wanted the front end to look like and got a bunch of styling done.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 80: December 22, Tuesday
+
+**Today's Progress**: Got add a rating mostly working.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 81: December 23, Wednesday
+
+**Today's Progress**: Got add a rating working like a wanted and got edit a rating mostly working.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
