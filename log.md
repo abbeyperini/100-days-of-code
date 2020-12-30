@@ -462,6 +462,6 @@
 
 ## Day 84: December 30, Wednesday
 
-**Today's Progress**: Built an animated About Page with just CSS and JSX.
+**Today's Progress**: Built an animated About Page with just CSS and JSX. Worked on cutting down on divs in our react app for accessibility's sake.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
