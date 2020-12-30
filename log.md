@@ -447,3 +447,21 @@
 **Today's Progress**: Got add a rating working like a wanted and got edit a rating mostly working.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+## Day 82: December 28, Monday
+
+**Today's Progress**: Tested edit, got the component to reload on change and added error messages. Got delete working. Some CSS.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+## Day 83: December 29, Tuesday
+
+**Today's Progress**: Big CSS update - hierarchical typography and got detailed views working with grid. Forms are all tabbable and submit on enter now. Small fixes in logic and usability based on clicking through. Changes based on Lighthouse score and suggested manual checks.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+## Day 84: December 30, Wednesday
+
+**Today's Progress**: Built an animated About Page with just CSS and JSX.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
