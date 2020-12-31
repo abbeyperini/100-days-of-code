@@ -465,3 +465,9 @@
 **Today's Progress**: Built an animated About Page with just CSS and JSX. Worked on cutting down on divs in our react app for accessibility's sake.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+## Day 85: December 31, Thursday
+
+**Today's Progress**: Made changes to get a 100 from Lighthouse on desktop accessibilty. Finished some forgotten CSS and made error messages for login/register. Finished up some views, and made sure to include an option to create an item wherever the empty state gave a "create item!" message.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
