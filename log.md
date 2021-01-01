@@ -471,3 +471,9 @@
 **Today's Progress**: Made changes to get a 100 from Lighthouse on desktop accessibility. Finished some forgotten CSS and made error messages for login/register. Finished up some views, and made sure to include an option to create an item wherever the empty state gave a "create item!" message.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+## Day 86: January 1, Friday
+
+**Today's Progress**: Made sure the app is mobile/tablet responsive. Now have 100 Lighthouse score on SEO, Best Practices, and Accessibilty for desktop and mobile.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
