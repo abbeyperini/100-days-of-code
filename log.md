@@ -477,3 +477,15 @@
 **Today's Progress**: Made sure the app is mobile/tablet responsive. Now have 100 Lighthouse score on SEO, Best Practices, and Accessibilty for desktop and mobile.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 87: January 3, Sunday
+
+**Today's Progress**: Fixed a JWT header error, made sure the new links were everywhere they needed to be, link styling, and changed a hover effect from a border to shadow so the text doesn't jump around.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 89: January 4, Monday
+
+**Today's Progress**: Added a catch on the server side, because we're still getting the JWT header error sometimes. Added a button for creating an item in the empty state as well as the full state where I had put it Thursday. Added .toFixed(1) in a couple places where we have an aggregate number.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
