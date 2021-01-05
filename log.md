@@ -489,3 +489,9 @@
 **Today's Progress**: Added a catch on the server side, because we're still getting the JWT header error sometimes. Added a button for creating an item in the empty state as well as the full state where I had put it Thursday. Added .toFixed(1) in a couple places where we have an aggregate number.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 89: January 5, Tuesday
+
+**Today's Progress**: Input validation, register error message fix, and link/search box styling.
+
+**Link(s) to work** https://github.com/brodri4/Gachasphere-client
