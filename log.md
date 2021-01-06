@@ -495,3 +495,7 @@
 **Today's Progress**: Input validation, register error message fix, and link/search box styling.
 
 **Link(s) to work** https://github.com/brodri4/Gachasphere-client
+
+### Day 90: January 6, Wednesday
+
+**Today's Progress**: Started a blog article on reloading a whole page based on a change in a component in React/Redux.
