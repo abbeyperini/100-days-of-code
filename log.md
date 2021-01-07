@@ -499,3 +499,9 @@
 ### Day 90: January 6, Wednesday
 
 **Today's Progress**: Started a blog article on reloading a whole page based on a change in a component in React/Redux.
+
+### Day 91: January 7, Thursday
+
+**Today's Progress**: Finished my blog post!
+
+**Link(s) to work** https://abbeyperini.medium.com/react-redux-reload-a-page-when-a-user-makes-a-change-7661a3e1b8ed
