@@ -505,3 +505,9 @@
 **Today's Progress**: Finished my blog post!
 
 **Link(s) to work** https://abbeyperini.medium.com/react-redux-reload-a-page-when-a-user-makes-a-change-7661a3e1b8ed
+
+### Day 92: January 9, Saturday
+
+**Today's Progress**: Started a python discord bot on repl.it following this tutorial: https://www.youtube.com/watch?v=SPTfmiYiuok&ab_channel=freeCodeCamp.org
+
+**Link(s) to work** https://repl.it/join/tlagrkdk-abbeyperini
