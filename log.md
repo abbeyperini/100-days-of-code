@@ -510,4 +510,10 @@
 
 **Today's Progress**: Started a python discord bot on repl.it following this tutorial: https://www.youtube.com/watch?v=SPTfmiYiuok&ab_channel=freeCodeCamp.org
 
-**Link(s) to work** https://repl.it/join/tlagrkdk-abbeyperini
+**Link(s) to work** https://repl.it/talk/share/Python-Discord-Bot/114204
+
+### Day 93: January 10, Sunday
+
+**Today's Progress**: Got my python discord bot working the way I want it. All that's left is setting up the repl.it server!
+
+**Link(s) to work** https://repl.it/talk/share/Python-Discord-Bot/114204
