@@ -517,3 +517,9 @@
 **Today's Progress**: Got my python discord bot working the way I want it. All that's left is setting up the repl.it server!
 
 **Link(s) to work** https://repl.it/talk/share/Python-Discord-Bot/114204
+
+### Day 94: January 11, Monday
+
+**Today's Progress**: Set up the server for my discord bot that shares random dog photos and inflicted it on my friends!
+
+**Link(s) to work** https://github.com/abbeyperini/Surprise-Bot
