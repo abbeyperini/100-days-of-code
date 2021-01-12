@@ -523,3 +523,9 @@
 **Today's Progress**: Set up the server for my discord bot that shares random dog photos and inflicted it on my friends!
 
 **Link(s) to work** https://github.com/abbeyperini/Surprise-Bot
+
+### Day 95: January 12, Tuesday
+
+**Today's Progress**: Fixed a couple issues that had cropped up with the discord bot and started rebuilding my website/portfolio.
+
+**Link(s) to work** https://github.com/abbeyperini/Portfolio2.0
