@@ -530,7 +530,11 @@
 
 **Link(s) to work** https://github.com/abbeyperini/Portfolio2.0
 
-### Day 96: January 14, Thursday
+### Day 96: January 13, Wednesday
+
+**Today's Progress**: Spent all day on an assessment for a possible interview. Did get the "strong submission" objective - multiple filters, as well as local state tags, an expanding view, and displaying and styling data from an API.
+
+### Day 97: January 14, Thursday
 
 **Today's Progress**: Deleted my create-react-app React portfolio and started over building it manually following this article: https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0 . The empty create-react-app was 272.3 MB, the new empty app is 84.1 MB.
 
