@@ -534,8 +534,12 @@
 
 **Today's Progress**: Spent all day on an assessment for a possible interview. Did get the "strong submission" objective - multiple filters, as well as local state tags, an expanding view, and displaying and styling data from an API.
 
-### Day 97: January 14, Thursday
+### Day 97: January 15, Friday
 
 **Today's Progress**: Deleted my create-react-app React portfolio and started over building it manually following this article: https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0 . The empty create-react-app was 272.3 MB, the new empty app is 84.1 MB.
 
 **Link(s) to work** https://github.com/abbeyperini/Portfolio2.0
+
+### Day 98: January 16, Saturday
+
+**Today's Progress**:  Ran into some interesting Big Sur/Brew/Node update issues that are possibly preventing my manually built React boilerplate from bootstrapping with one command. Definitely won't be using this for my portfolio as I would have to manually update dependencies.
