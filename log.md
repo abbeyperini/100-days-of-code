@@ -543,3 +543,9 @@
 ### Day 98: January 16, Saturday
 
 **Today's Progress**:  Ran into some interesting Big Sur/Brew/Node/Xcode update issues that are possibly preventing my manually built React boilerplate from bootstrapping with one command. Definitely won't be using this for my portfolio as I would have to manually update dependencies.
+
+### Day 99: January 18, Monday
+
+**Today's Progress**: Wrote a blog!
+
+**Link(s) to work** https://abbeyperini.medium.com/object-oriented-programming-in-memes-e6964570e81a
