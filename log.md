@@ -549,3 +549,9 @@
 **Today's Progress**: Wrote a blog!
 
 **Link(s) to work** https://abbeyperini.medium.com/object-oriented-programming-in-memes-e6964570e81a
+
+### Day 100: January 19, Tuesday
+
+**Today's Progress**: Restarted my portfolio for real this time.
+
+**Link(s) to work** https://github.com/abbeyperini/Portfolio2.0
